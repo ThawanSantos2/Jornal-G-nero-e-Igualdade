@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to right, pink, red);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+header {
+    background-color: purple;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 15px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+.editorial {
+    background-color: pink;
+    color:black;
+    padding: 10px 30px;
+    border-radius: 2.5px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.conteiner {
+    text-align: center;
+    padding: 10px 30px;
+}
